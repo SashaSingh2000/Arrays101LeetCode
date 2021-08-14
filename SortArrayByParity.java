@@ -6,7 +6,7 @@ package JavaPractice;
  * 
  * Return any array that satisfies this condition.
  * 
- * @author u0982683
+ * @author Sasha Singh
  *
  */
 public class SortArrayByParity {
